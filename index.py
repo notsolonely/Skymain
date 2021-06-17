@@ -20,3 +20,5 @@ job = input ("what is your job?")
 print ("Your job is" + job)
 
 123
+help
+sasdasdas
